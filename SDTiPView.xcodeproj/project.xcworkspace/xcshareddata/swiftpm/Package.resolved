@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AMPopTip",
+        "repositoryURL": "https://github.com/andreamazz/AMPopTip.git",
+        "state": {
+          "branch": null,
+          "revision": "2160338b7940a20ee0e2907c386514c8bf8c3c04",
+          "version": "4.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
